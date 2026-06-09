@@ -23,10 +23,7 @@ The solution was built using Microsoft Power BI and Azure-based data infrastruct
 The platform consists of:
 
 - Executive Dashboard
-<img width="1223" height="803" alt="image" src="https://github.com/user-attachments/assets/63f61b16-a212-412b-8d87-3919d89a3316" />
-
 - Self-Service Analytics Dashboard
-<img width="616" height="792" alt="image" src="https://github.com/user-attachments/assets/d57ddf82-1a67-499e-ae95-c3c9b0a6762e" />
 
 ---
 
@@ -76,7 +73,7 @@ The Executive Dashboard was designed for senior management and commercial leader
 
 ### Dashboard Preview
 
-![Executive Dashboard](images/executive-dashboard.png)
+<img width="1223" height="803" alt="image" src="https://github.com/user-attachments/assets/63f61b16-a212-412b-8d87-3919d89a3316" />
 
 ### Key Metrics
 
@@ -114,7 +111,7 @@ The Self-Service Dashboard was designed for operational users including Sales Ma
 
 ### Dashboard Preview
 
-![Self Service Dashboard](images/self-service-dashboard.png)
+<img width="616" height="792" alt="image" src="https://github.com/user-attachments/assets/d57ddf82-1a67-499e-ae95-c3c9b0a6762e" />
 
 ### Key Metrics
 
